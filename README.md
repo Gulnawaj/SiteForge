@@ -62,6 +62,7 @@ SiteForge/
 │
 ├── .gitignore
 └── README.md
+```markdown
 
 ## 📸 Screenshots
 

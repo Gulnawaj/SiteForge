@@ -781,7 +781,7 @@ export function buildPreviewScript(marker) {
 // 3. Form submits never reload the iframe — they show a "Thanks!" toast.
 
 
-const MARKER = "__mintsite_safe_preview__";
+const MARKER = "__SiteForge_safe_preview__";
 const SAFE_SCRIPT = buildPreviewScript(MARKER);
 
 // Remove AI-written page-router scripts. The platform handles multi-page

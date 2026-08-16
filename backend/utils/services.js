@@ -288,7 +288,7 @@ function friendlyError(err) {
 // Env vars when you want real emails:
 //   BREVO_API_KEY        — key from Brevo dashboard → SMTP & API → API Keys (v3)
 //   BREVO_SENDER_EMAIL   — a verified sender on your Brevo account
-//   BREVO_SENDER_NAME    — display name (optional, defaults to "mintsite")
+//   BREVO_SENDER_NAME    — display name (optional, defaults to "SiteForge")
 //
 // If anything is missing or Brevo rejects the request, OTPs are logged to the
 // console and (in development) returned in the API response so the flow keeps
@@ -502,7 +502,7 @@ export async function createCheckoutSession({
         price_data: {
           currency: pkg.currency,
           product_data: {
-            name: `${pkg.name} pack — ${pkg.credits} mintsite credits`,
+            name: `${pkg.name} pack — ${pkg.credits} credits`,
             description: pkg.tagline,
           },
           unit_amount: pkg.amount,
@@ -582,7 +582,7 @@ export async function deployToVercel({ token, projectName, html, prompt }) {
     throw new Error("Project has no HTML to deploy");
   const slug = toProjectSlug(projectName);
 
-  const readme = `# ${projectName || slug}\n\nDeployed via [Mintsite](https://mintsite.app).\n\nOriginal prompt:\n> ${prompt || "(none)"}\n`;
+  const readme = `# ${projectName || slug}\n\nDeployed via [SiteForge](https://SiteForge.app).\n\nOriginal prompt:\n> ${prompt || "(none)"}\n`;
 
   // Inline files for the v13 deployments endpoint
   const files = [

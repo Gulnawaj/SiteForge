@@ -70,7 +70,7 @@ SiteForge/
 
 ## Screenshots
 
-<img width="100%" alt="SiteForge Preview" src="https://github.com/user-attachments/assets/"44dba61e-8bb8-46e1-810c-c3057fa8e09b />
+<img width="100%" alt="SiteForge Preview" src="https://github.com/user-attachments/assets/"44dba61e-8bb8-46e1-810c-c3057fa8e09b" />
 
 
 

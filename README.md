@@ -65,7 +65,8 @@ SiteForge/
 
 ##Screenshots
 
-<img width="1920" height="1080" alt="Screenshot (2604)" src="https://github.com/user-attachments/assets/6fba5faa-e890-4b78-857d-7f4cd3e61e34" />
+<img width="1920" height="1080" alt="Screenshot (2604)" src="https://github.com/user-attachments/assets/8c7c5c50-ebed-4fd8-a01d-4dda89fb7c82" />
+
 
 
 

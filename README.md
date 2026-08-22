@@ -1,4 +1,3 @@
-<img width="1920" height="1080" alt="Screenshot (2604)" src="https://github.com/user-attachments/assets/80e77cb7-dde5-427d-aa92-4954188e6efb" />
 # 🚀 SiteForge — AI Website Builder
 
 SiteForge is a full-stack AI-powered website builder that lets users create websites using natural-language prompts.
@@ -66,7 +65,8 @@ SiteForge/
 
 ##Screenshots
 
-<img width="100%" alt="SiteForge Preview" src="https://github.com/Gulnawaj/assets/44dba61e-8bb8-46e1-810c-c3057fa8e09b" />
+<img width="1920" height="1080" alt="Screenshot (2604)" src="https://github.com/user-attachments/assets/6fba5faa-e890-4b78-857d-7f4cd3e61e34" />
+
 
 
 
